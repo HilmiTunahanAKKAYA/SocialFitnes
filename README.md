@@ -16,7 +16,7 @@ Bu dosya proje linklerini toplu olarak gormeniz icin olusturuldu.
 - Login: http://localhost/s2SporH/login.php
 - Register: http://localhost/s2SporH/register.php
 
- 
+ Yasar alanda 1.değişiklipim kendi pc den 
 =======
 # SocialFitnes
 aa
