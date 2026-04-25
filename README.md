@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # s2SporH
 
 Bu dosya proje linklerini toplu olarak gormeniz icin olusturuldu.
@@ -14,3 +15,9 @@ Bu dosya proje linklerini toplu olarak gormeniz icin olusturuldu.
 - Dashboard: http://localhost/s2SporH/dashboard.php
 - Login: http://localhost/s2SporH/login.php
 - Register: http://localhost/s2SporH/register.php
+
+ hilmi yaşar
+=======
+# SocialFitnes
+aa
+>>>>>>> 1d38b53e9110dfaf8df3162de544e86b69b829c2
